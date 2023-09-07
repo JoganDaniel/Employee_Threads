@@ -2,26 +2,26 @@
   "employee": [
     {
       "id": 1,
-      "name": "shrey",
+      "name": "a",
       "salary": 100
     },
     {
       "id": 2,
-      "name": "verma",
+      "name": "b",
       "salary": 200
     },
     {
       "id": 3,
-      "name": "mukesh",
+      "name": "c",
       "salary": 300
     },
     {
-      "name": "update",
+      "name": "d",
       "salary": 500,
       "id": 4
     },
     {
-      "name": "edit",
+      "name": "e",
       "salary": 100,
       "id": 5
     }

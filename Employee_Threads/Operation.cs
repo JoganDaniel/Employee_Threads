@@ -20,7 +20,7 @@ namespace MultiThreading
             }
             DateTime end = DateTime.Now;
             
-            Console.WriteLine("Duration without Thread " + (end - start));
+            Console.WriteLine("Without Thread " + (end - start));
         }
       
         public void UsingWithThread(List<Employee> list)
@@ -36,7 +36,7 @@ namespace MultiThreading
                 });
             }
             DateTime end = DateTime.Now;
-            Console.WriteLine("Duration with Thread " + (end - start));
+            Console.WriteLine("With Thread " + (end - start));
         }
     }
 }
